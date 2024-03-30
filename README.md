@@ -178,6 +178,5 @@ $ cvs -z3 -d:pserver:anonymous@cvs.steghide.sourceforge.net:/cvsroot/steghide co
 You can also browse the cvs repository on the web:
 http://cvs.sourceforge.net/cgi-bin/viewcvs.cgi/steghide/
 
-Author :
---------
-You can contact me (Stefan Hetzl) via e-mail: shetzl@chello.at
+Author:
+This is copy from another repository.
